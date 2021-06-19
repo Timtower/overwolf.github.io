@@ -44,7 +44,6 @@ sidebar_label: Various External APIs
 ## Minecraft
 
 * Minecraft ID List | [API](http://minecraft-ids.grahamedgecombe.com/api) | [Additional link](http://minecraft-ids.grahamedgecombe.com/)
-* Buckget | [API](http://bukget.org/)
 
 ## Path of Exile
 
